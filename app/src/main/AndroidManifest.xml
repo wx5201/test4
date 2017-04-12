@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".CheckboxActivity" />
-        <activity android:name=".radiobutton"></activity>
+        <activity android:name=".radiobutton" />
+        <activity android:name=".EditTextactivity"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,9 @@
+常用属性：
+text:
+textsize:
+textColor:
+visiblity:是否显示
+maxLength：最大长度
+maxlines:最大行数
+inputtype:输入类型
+ems:默认EDitText的字符呈现宽度如果属性设置为match_parent则为ems无效
