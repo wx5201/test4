@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".CheckboxActivity" />
         <activity android:name=".radiobutton" />
-        <activity android:name=".EditTextactivity"></activity>
+        <activity android:name=".EditTextactivity" />
+        <activity android:name=".Editetext2Actiity"></activity>
     </application>
 
 </manifest>
