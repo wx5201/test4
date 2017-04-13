@@ -21,7 +21,10 @@
         <activity android:name=".EditTextactivity" />
         <activity android:name=".Editetext2Actiity" />
         <activity android:name=".imageActivity" />
-        <activity android:name=".Imageview2activity"></activity>
+        <activity android:name=".Imageview2activity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".loginActivity"></activity>
     </application>
 
 </manifest>

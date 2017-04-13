@@ -34,5 +34,30 @@
             android:onClick="skip"
             android:text="点击" />
 
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <EditText
+                android:id="@+id/editText3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="37dp"
+                android:layout_marginStart="37dp"
+                android:layout_toEndOf="@+id/textView4"
+                android:layout_toRightOf="@+id/textView4"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="Name" />
+
+        </RelativeLayout>
+
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
