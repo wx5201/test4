@@ -11,7 +11,12 @@ import android.widget.Toast;
  * backgroud：表示Imageview的背景显示
  * Imageview也可以添加对应的点击事件
  *
- *ImageButton 用来响应
+ *ImageButton 用来响应图片的点击事件
+ * 一般使用 ImageButton来响应控件的点击效果，使用ImageView来呈现一个图片控件
+ * ImageBotton是ImageView的子类，所以ImageView上的属性都适用与ImageBotton
+ * 
+ * ScaleType属性是定义在ImageView上用来呈现图片不同显示
+ *使用方法：ScaleType=""
  */
 
 
